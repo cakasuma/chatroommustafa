@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132211046299",
+    "firebase_url": "https://chatroom-fb530.firebaseio.com",
+    "project_id": "chatroom-fb530",
+    "storage_bucket": "chatroom-fb530.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132211046299:android:4a1a008d1d47edf2",
+        "android_client_info": {
+          "package_name": "com.example.amam.chatroommustafa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132211046299-eve56sfq0c4hpmkmp28qlh6a1j6ishgk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amam.chatroommustafa",
+            "certificate_hash": "361b05950a8331cdabaf40cd6db36a2a48894c68"
+          }
+        },
+        {
+          "client_id": "132211046299-h980mprumdn989guutnr20970ptcdi3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3-s98oB_htbrIPeFP6LZfZAj6-3WS5pM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132211046299-h980mprumdn989guutnr20970ptcdi3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
